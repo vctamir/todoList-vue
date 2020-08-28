@@ -47,6 +47,5 @@ export default {
   justify-content:center;
   margin:0px auto 10px auto;
   max-width: 700px;
-  height: 100vh;
 }
 </style>
